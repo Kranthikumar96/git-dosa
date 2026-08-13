@@ -22,3 +22,5 @@
 * Light oil.
 
 # Ghee Karam Dosa
+* Dosa batter.
+* karam.
