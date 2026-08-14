@@ -4,7 +4,3 @@
 * Dosa Batter.
 * Light Oil.
 * Light butter.
-
-# Karam Dosa
-* Dosa Batter.
-* Yerra karam.
