@@ -5,6 +5,6 @@
 * Light Oil.
 * Light butter.
 
-# Karam Dosa
+# Egg Dosa
 * Dosa Batter.
-* Yerra karam.
+* Egg & Karam.
