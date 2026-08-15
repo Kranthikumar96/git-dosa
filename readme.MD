@@ -20,3 +20,8 @@
 * Tommato and Panner scramble.
 * Ghee added.
 * Light oil.
+
+# Ghee Karam Dosa
+* Dosa batter.
+* karam.
+* Ghee
