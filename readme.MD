@@ -19,3 +19,4 @@
 * Carrot onion.
 * Tommato and Panner scramble.
 * Ghee added.
+* Light oil.
